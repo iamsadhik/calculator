@@ -1,0 +1,43 @@
+body{
+    width:500px;
+    margin:4%;
+    letter-spacing: 5px;
+}
+.buttons{
+    margin-top: 2rem;
+}
+
+.calculator{
+    padding:20px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.numbers div{
+    display: inline-block;
+    padding: 1rem;
+    border: 1px solid black;
+    margin: 8px;
+}
+.numbers div:hover{
+    background-color: yellowgreen;
+    cursor: pointer;
+}
+.operators div{
+    display: inline-block;
+    padding: 1rem;
+    border: 1px solid black;
+    margin: 8px;
+}
+div.equal{
+    display: inline;
+    border: 1px solid black;
+   vertical-align: top;
+}
+.input{
+    border: 1px solid black;
+    height: 53px;
+}
+.operators div:hover{
+    background-color: burlywood;
+    cursor: pointer;
+}
