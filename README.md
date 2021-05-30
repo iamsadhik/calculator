@@ -1,3 +1,3 @@
 # calculator
  
- Bhai thoda sa sabr karo... work in progress..
+ if code doesn't work in vs code...Try it out in Code pen..
